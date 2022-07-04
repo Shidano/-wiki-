@@ -7,7 +7,7 @@
 // @run-at document-idle
 // ==/UserScript==
 
-var waittime=3000;//環境によるから調整しろ
+var waittime=5000;//環境によるから調整しろ
 
 var changeStr=
     [
